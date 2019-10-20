@@ -1,0 +1,44 @@
+body{
+	margin:0;
+	padding:0;
+	background-color:black;
+	/*background-size:100%;*/
+}
+
+.login{
+	margin-top:10%;
+	margin-left:40%;
+	margin-bottom:40%;
+	color:white;
+	width:30%;
+}
+
+.login h2{
+	float:left;
+	border-bottom:white 5px solid;
+	margin-bottom:20px;
+	padding:13px 0;
+}
+
+.textbox{
+	width:80%;
+	overflow:hidden;
+	padding:12px 0;
+	margin:10px 0;
+	font-size:18px;
+	border-bottom:1px solid grey;
+}
+
+.textbox input{
+	border:none;
+	outline:none;
+	background:none;
+}
+
+.button_1{
+	font-size: 22px
+	padding:10px;
+	background:none;
+	color:white;
+	border:none;
+}
